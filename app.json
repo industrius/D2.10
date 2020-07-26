@@ -1,0 +1,6 @@
+{
+  "name": "BottleLogSentry",
+  "description": "D2.10 Домашнее задание",
+  "image": "heroku/python",
+  "keywords": ["python", "bottle", "sentry" ]
+}
